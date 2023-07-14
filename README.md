@@ -1,13 +1,23 @@
 ![Header](https://github.com/l1dhell/l1dhell/blob/main/glitch_2023-2-20_1-48-41.gif)
 
-[![Codewars](https://img.shields.io/badge/-Codewars-black?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/l1dhell)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=for-the-badge&logo=Leetcode)](https://leetcode.com/l1dhell/)
-[![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/https://t.me/Ai_digi_digi_dai)
-[![Gmail](https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=Gmail)](alexmanukian@gmail.com)
-[![StackOverFlow](https://img.shields.io/badge/-StackOverFlow-black?style=for-the-badge&logo=StackOverFlow)](https://stackoverflow.com/users/21268642/l1dhell)
-[![Steam](https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/kuc9uwu/)
+[![Codewars](https://img.shields.io/badge/-l1dhell-black?style=for-the-badge&logo=Codewars)](https://www.codewars.com/users/l1dhell)
+[![Leetcode](https://img.shields.io/badge/-l1dhell-black?style=for-the-badge&logo=Leetcode)](https://leetcode.com/l1dhell/)
+[![StackOverFlow](https://img.shields.io/badge/-l1dhell-black?style=for-the-badge&logo=StackOverFlow)](https://stackoverflow.com/users/21268642/l1dhell)
+[![Gmail](https://img.shields.io/badge/-alexmanukian@gmail.com-black?style=for-the-badge&logo=Gmail)](alexmanukian@gmail.com)
+[![Steam](https://img.shields.io/badge/-kuc9uwu-black?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/kuc9uwu/)
+[![Telegram](https://img.shields.io/badge/-me-black?style=for-the-badge&logo=Telegram)](https://t.me/https://t.me/Ai_digi_digi_dai)
+[![Telegram](https://img.shields.io/badge/-my_group-black?style=for-the-badge&logo=Telegram)](https://t.me/+JYfVCqb_WDpiNzli)
+
 
 ## **IT'S ME**
+![Russia](https://img.shields.io/badge/-Russia-black?style=for-the-badge&logo=Russia)
+![Saint Petersburg](https://img.shields.io/badge/-Saint_Petersburg-black?style=for-the-badge&logo=Saint_Petersburg) 
+![20y.o](https://img.shields.io/badge/-20y.o.-black?style=for-the-badge&logo=20)
+![Manukian](https://img.shields.io/badge/-Manukian-black?style=for-the-badge&logo=Manukian)
+![Daniil](https://img.shields.io/badge/-Daniil-black?style=for-the-badge&logo=Daniil)
+
+
+### **SKILS AND MORE**
 - **python3**
 - **basics**
     - java 
@@ -53,3 +63,8 @@
 
 
 I cannot assess how well I know this or that topic. It seems to me that I know everything badly -  net predela sovershenstvu.
+
+
+
+
+
