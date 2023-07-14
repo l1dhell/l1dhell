@@ -24,7 +24,7 @@
     - C
     - C++ 
     - C#
-- **SQL**
+- **Database**
     - postgresql
     - MySql (tried a couple of times)
     - Nosql (tried a couple of times)
