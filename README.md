@@ -5,7 +5,7 @@
 [![StackOverFlow](https://img.shields.io/badge/-l1dhell-black?style=for-the-badge&logo=StackOverFlow)](https://stackoverflow.com/users/21268642/l1dhell)
 [![Gmail](https://img.shields.io/badge/-alexmanukian@gmail.com-black?style=for-the-badge&logo=Gmail)](alexmanukian@gmail.com)
 [![Steam](https://img.shields.io/badge/-kuc9uwu-black?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/kuc9uwu/)
-[![Telegram](https://img.shields.io/badge/-me-black?style=for-the-badge&logo=Telegram)](https://t.me/https://t.me/Ai_digi_digi_dai)
+[![Telegram](https://img.shields.io/badge/-me_personal-black?style=for-the-badge&logo=Telegram)](https://t.me/https://t.me/Ai_digi_digi_dai)
 
 
 ## **IT'S ME**
