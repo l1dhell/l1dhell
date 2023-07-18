@@ -6,7 +6,6 @@
 [![Gmail](https://img.shields.io/badge/-alexmanukian@gmail.com-black?style=for-the-badge&logo=Gmail)](alexmanukian@gmail.com)
 [![Steam](https://img.shields.io/badge/-kuc9uwu-black?style=for-the-badge&logo=Steam)](https://steamcommunity.com/id/kuc9uwu/)
 [![Telegram](https://img.shields.io/badge/-me-black?style=for-the-badge&logo=Telegram)](https://t.me/https://t.me/Ai_digi_digi_dai)
-[![Telegram](https://img.shields.io/badge/-my_group-black?style=for-the-badge&logo=Telegram)](https://t.me/+JYfVCqb_WDpiNzli)
 
 
 ## **IT'S ME**
